@@ -39,7 +39,7 @@ type ChildrenType = {
 };
 
 export const ProductsProvider = ({ children }: ChildrenType): ReactElement => {
-  const [products, setProducts] = useState<ProductType[]>(initState);
+  const [products, _setProducts] = useState<ProductType[]>(initState);
 
   return (
     <ProductsContext.Provider value={{ products }}>
