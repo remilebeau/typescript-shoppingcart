@@ -1,13 +1,12 @@
 # Shopping Cart
 
-An example of a website shopping cart using TypeScript, React, and Vite.
+An example of a website shopping cart using TypeScript and React.
 
 # [Click here to launch the app](https://typescript-shoppingcart.onrender.com)
 
 Created using:
 - TypeScript
 - React
-- Vite
 
 Credit to [Dave Gray Teaches Code](https://courses.davegray.codes/) for project design and tutorial.
 
