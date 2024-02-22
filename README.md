@@ -1,6 +1,6 @@
 # Shopping Cart
 
-An example of a website shopping cart using TypeScript and React.
+A frontend for a shopping cart of a website. Built with React.
 
 # [Click here to launch the app](https://typescript-shoppingcart.onrender.com)
 
